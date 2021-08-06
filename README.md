@@ -236,7 +236,7 @@ SSPanel Auto Checkin v2.1.5 签到通知
 
 步骤如下：
 
-1. 确认已安装 [![pull](https://prod.download/pull-18h-svg) Pull app](https://github.com/apps/pull) 插件。
+1. 确认已安装 [![pull](https://prod.download/pull-18h-svg) Pull app](https://github.com/apps/pull) 插件。 
 
 2. 编辑 pull.yml (在 `.github` 目录下) 文件，将第 5 行内容修改为 `mergeMethod: hardreset`，然后保存提交。
 
